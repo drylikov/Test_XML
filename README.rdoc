@@ -1,4 +1,4 @@
-= TestXml
+= TestXml.
 
 == DESCRIPTION
 
